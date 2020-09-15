@@ -21,4 +21,5 @@ conda install --yes bwa=0.7.15
 conda install --yes sickle-trim=1.33
 conda install --yes subread=1.6.1
 conda install --yes samtools=1.8
+conda install --yes sicer2=1.0.2
 conda clean --index-cache --tarballs --packages --yes
